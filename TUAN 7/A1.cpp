@@ -2,8 +2,9 @@
 
 using namespace std;
 
+/*
 int main(){
-    char str[50] = "Hello World";
+    char str[50] = "Hello World!";
 
     char *p1 = str;
     char *p2 = &str[0];
@@ -15,3 +16,5 @@ int main(){
     str = NULL;
 
 }
+*/
+
